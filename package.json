@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api con la data de mio porrtfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[B"
+  },
+  "keywords": [
+    "portfolio",
+    "projects",
+    "experience"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

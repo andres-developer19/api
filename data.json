@@ -1,0 +1,238 @@
+{
+    "TAGS": {
+      "NEXT": {
+        "name": "Next.js",
+        "class": "bg-next text-white",
+        "icon": "NextJS"
+      },
+      "TAILWIND": {
+        "name": "Tailwind CSS",
+        "class": "bg-tailwind text-white",
+        "icon": "Tailwind"
+      },
+      "JAVASCRIPT": {
+        "name": "Javascript",
+        "class": "bg-js text-black",
+        "icon": "Javascript"
+      },
+      "HTML": {
+        "name": "HTML5",
+        "class": "bg-html text-white",
+        "icon": "Html"
+      },
+      "CSS": {
+        "name": "css3",
+        "class": "bg-css text-white",
+        "icon": "Css"
+      },
+      "WORDPRESS": {
+        "name": "Wordpress",
+        "class": "bg-wordpress text-white",
+        "icon": "Wordpress"
+      },
+      "REACT": {
+        "name": "React",
+        "class": "bg-react text-black",
+        "icon": "React"
+      },
+      "ASTRO": {
+        "name": "Astro",
+        "class": "bg-astro text-white",
+        "icon": "Astro"
+      },
+      "TYPESCRIPT": {
+        "name": "Typescript",
+        "class": "bg-typescript text-white",
+        "icon": "Typescript"
+      },
+      "HUBSPOT": {
+        "name": "HubSpot",
+        "class": "bg-hubspot text-white",
+        "icon": "HubSpot"
+      }
+    },
+    "PROJECTS": [
+      {
+        "title": "SVGL - A beautiful library with SVG logos",
+        "description": "Biblioteca de logos SVG de las marcas más populares. +10k visitas al mes. +2K svgs descargados. Creado desde cero con Next.js, React y Tailwind CSS.",
+        "link": "https://adrianaleal.com/",
+        "image": "./projects/project_1.webp",
+        "tags": ["WORDPRESS"]
+      },
+      {
+        "title": "Adicta - Proyecto realizado durante el curso de javascript en CoderHouse",
+        "description": "Proyecto realizado durante el curso de javascript en CoderHouse",
+        "link": "https://andresguti19fc.github.io/proyectoFinalDeJavascript/",
+        "github": "https://github.com/andresguti19fc/proyectoFinalDeJavascript",
+        "image": "./projects/adictaJS.webp",
+        "tags": ["HTML", "CSS", "JAVASCRIPT"]
+      },
+      {
+        "title": "Criptomoon - Criptomonedas, el dinero del mañana",
+        "description": "Proyecto realizado durante el curso de desarrollo web en CoderHouse, donde aplique tecnicas como box model, flexbox, grid entre otras y se basa en la plataforma de estudios de criptomonedas dirigido por un amigo.",
+        "link": "https://proyecto-final-lac-one.vercel.app/",
+        "github": "https://github.com/andresguti19fc/proyecto-final",
+        "image": "./projects/criptomoon.webp",
+        "tags": ["HTML", "CSS"]
+      },
+      {
+        "title": "Rick and Morty",
+        "description": "Página que consume la API de Rick and Morty para mostrar personajes y permite filtrarlos por género, especie y estado. Demuestra habilidades en consumo de APIs y desarrollo web interactivo.",
+        "link": "https://rick-and-morty-mauve-omega.vercel.app/",
+        "image": "./projects/bg-rick-morty.png",
+        "tags": ["JAVASCRIPT", "ASTRO"],
+        "github": "https://github.com/andres-developer19/rick-and-morty"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "description": "Juego del Tic Tac toe desarrollado con React",
+        "link": "https://tictactoe-liard-omega.vercel.app/",
+        "image": "./projects/bg-tictactoe.png",
+        "tags": ["JAVASCRIPT", "REACT"],
+        "github": "https://github.com/andres-developer19/tictactoe"
+      },
+      {
+        "title": "Menu con React",
+        "description": "Este es un pequeño proyecto realizado con React.",
+        "link": "https://menu-items-gilt.vercel.app/",
+        "image": "./projects/x.png",
+        "tags": ["JAVASCRIPT", "REACT"],
+        "github": "https://github.com/andres-developer19/menuItems"
+      },
+      {
+        "title": "Lista de Libros con Next.js",
+        "description": "Listado dinámico de libros, proyecto realizado con Next.js",
+        "link": "https://booklist-hsdl1udm0-andres-developer19.vercel.app/",
+        "image": "./projects/bg-libros.png",
+        "tags": ["JAVASCRIPT", "NEXT", "TYPESCRIPT"],
+        "github": "https://github.com/andres-developer19/booklist"
+      },
+      {
+        "title": "Adriana Leal",
+        "description": "Página personal de Adriana Leal",
+        "link": "https://adrianaleal.com/",
+        "image": "./projects/bg-adriana.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Bebidas Lamarca",
+        "description": "Atractivo y dinámico E-commerce dedicado a la venta de bebidas.",
+        "link": "https://bebidaslamarca.com.ar/",
+        "image": "./projects/bg-lamarca.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Hecney Rodriguez",
+        "description": "Página personal de Hecney Rodriguez",
+        "link": "https://hecneyrodriguez.com/",
+        "image": "./projects/bg-hecney.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "University Park IFC",
+        "description": "Website for University Park IFC, a coalition of fraternities previously affiliated with USC.",
+        "link": "https://www.universityparkifc.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-universityparkifc-2024-04-28-18_54_41.png",
+        "tags": ["WORDPRESS"]
+      },
+      {
+        "title": "corrections.raysecur.com",
+        "description": "An extension of the RaySecur website that includes multiple pages and a blog.",
+        "link": "https://corrections.raysecur.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-corrections-raysecur-2024-04-28-17_48_09.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "SuperTek",
+        "description": "Website for specialized crypto mining services.",
+        "link": "https://www.supertek.com.ar/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-supertek-ar-2024-04-28-18_56_37.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Superiorhomeoffer",
+        "description": "Website specialized in buying and selling homes.",
+        "link": "https://superiorhomeoffer.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-superiorhomeoffer-2024-04-28-18_58_32.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Mindlinkair",
+        "description": "Landing page to promote Mindlink Air glasses.",
+        "link": "https://get.mindlinkair.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-adhawk-wpenginepowered-2024-04-28-19_04_59.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Mangone",
+        "description": "Landing page for Mangone Law Firm LLC.",
+        "link": "https://mangone.wpenginepowered.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-mangone-wpenginepowered-2024-04-28-19_07_09.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Vsurgic",
+        "description": "Website ensuring smooth connectivity between surgical suites and industry network.",
+        "link": "https://vsurgic.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-vsurgic-2024-04-28-19_08_38.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "WORDPRESS"]
+      },
+      {
+        "title": "Bolsterbuilt",
+        "description": "Landing page for Bolsterbuilt services.",
+        "link": "https://try.bolsterbuilt.com/usd-package",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-try-bolsterbuilt-usd-package-2024-04-28-19_10_34.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "HUBSPOT"]
+      },
+      {
+        "title": "Bolsterbuilt - LP",
+        "description": "Landing page for scheduling a call with Bolsterbuilt.",
+        "link": "https://try.bolsterbuilt.com/schedule-a-call/ga",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-try-bolsterbuilt-schedule-a-call-ga-2024-04-28-19_12_33.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "HUBSPOT"]
+      },
+      {
+        "title": "Blog - Happy Agencies",
+        "description": "Blog created with HubSpot technology and the HubL language.",
+        "link": "https://blog.happyagencies.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-blog-happyagencies-2024-04-28-19_14_01.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "HUBSPOT"]
+      },
+      {
+        "title": "Link in Bio - Happy Agencies",
+        "description": "Landing page to display popular links and social networks powered by HubSpot.",
+        "link": "https://bio.happyagencies.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/Link-in-Bio.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "HUBSPOT"]
+      },
+      {
+        "title": "Clearbox Strategies",
+        "description": "Landing page for Clearbox Strategies.",
+        "link": "https://clearboxstrategies.com/",
+        "image": "https://22529421.fs1.hubspotusercontent-na1.net/hubfs/22529421/screencapture-clearboxstrategies-2024-04-28-19_18_55.png",
+        "tags": ["HTML", "CSS", "JAVASCRIPT", "HUBSPOT"]
+      }
+    ],
+    "EXPERIENCE": [
+        {
+          "date": "Actualmente...",
+          "title": "Desarrollador Web - Happy Agencies",
+          "description": "Actualmente, desempeño el rol de desarrollador web en Happy Agencies. En este rol, me enfoco en la creación de sitios web funcionales y atractivos utilizando las últimas tecnologías.",
+          "link": ""
+        },
+        {
+          "date": "Mayo 2021 - Mayo 2022",
+          "title": "Desarrollador Web - AE",
+          "description": "Desarrollo de sitios web y aplicaciones web utilizando HTML, CSS y Javascript, además de trabajar en proyectos de Wordpress.",
+          "link": ""
+        },
+        {
+          "date": "Enero 2018 - Mayo 2020",
+          "title": "Desarrollador Web - Freelance",
+          "description": "Creación de sitios web personalizados para pequeños negocios, incluyendo diseño de interfaz, desarrollo de front-end y optimización para motores de búsqueda.",
+          "link": ""
+        }
+      ]
+  }
+
+  
